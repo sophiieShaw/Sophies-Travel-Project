@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <body>
+    
+        <h1>Travel to Canada</h1>
+        
+    </body>
+Canada is a great place to vist becuase it has many differnt areas. <br>
+
+<h2>British Columbia</h2>
+ <br>If you are looking for nice mountin view and good skiing, BC is a great place to stay.
+ BC is home to  big mountins and is renouned for good skiing, or if your looking for a busy downtown, try vancouver. 
+ Vancouver is the capital of BC and has much to offer in its downtown core, things like malls and great restarunts
+ 
